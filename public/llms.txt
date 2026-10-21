@@ -1,0 +1,27 @@
+# Cookie Pinuki
+
+> Handmade boutique bakery in Israel. Cookies, krembo, rugelach, and donuts baked to order.
+
+Cookie Pinuki is an artisan bakery. Visitors choose a box on this site and send an Instagram message to place an order. There is no checkout cart. Pickup and delivery depend on the customer's area.
+
+## Site
+
+- Hebrew homepage: /
+- English homepage: /en
+- Order by Instagram DM: https://ig.me/m/cookiepinuki
+- Instagram profile: https://www.instagram.com/cookiepinuki/
+
+## Menu
+
+- Boutique krembo box of 6 — 80 ILS (bestseller)
+- Gluten-free boutique krembo box of 6 — 95 ILS
+- Indulgent chocolate chip cookies box of 6 — 75 ILS
+- Chocolate rugelach, small (~8) — 40 ILS or large (~16) — 80 ILS
+- Snowy cookies box of 15 — 55 ILS
+- Donuts box of 6 — 75 ILS
+
+Every box is baked by hand after the order.
+
+## Brand
+
+Cookie Pinuki. Est. 2023. Theme color #3D1F0D.
