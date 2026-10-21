@@ -26,6 +26,22 @@ html {
   color-scheme: light;
   scroll-behavior: smooth;
   scroll-padding-top: 5.5rem;
+  scrollbar-width: thin;
+  scrollbar-color: #3d1f0d40 var(--flour);
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--flour);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3d1f0d40;
+  border-radius: 3px;
 }
 
 body {
